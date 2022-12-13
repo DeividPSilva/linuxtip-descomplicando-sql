@@ -1,2 +1,2 @@
 # linuxtip-descomplicando-sql
-Respositório com os co
+Respositório com os códigos
