@@ -5,7 +5,7 @@ SELECT * FROM silver_olist.pedido
 
 -- COMMAND ----------
 
-SELECT idPedido,
+SELECT*, idPedido,
 FROM silver_olist.pedido
 
 -- Leia-se: selecione a coluna idPedido da tabela silver_olist.pedido
@@ -21,7 +21,7 @@ FROM silver_olist.pedido
 
 -- COMMAND ----------
 
-SELECT idPedido,
+SELECT  idPedido,
       descSituacao
       
 FROM silver_olist.pedido  
